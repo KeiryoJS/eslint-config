@@ -1,7 +1,7 @@
 {
   "name": "@neocord/eslint-config",
   "main": "./index.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">=7.9.0",
