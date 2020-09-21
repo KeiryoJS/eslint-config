@@ -23,7 +23,7 @@ module.exports = {
     "@typescript-eslint/no-explicit-any": "off",
     "@typescript-eslint/no-var-requires": "off",
     "@typescript-eslint/ban-ts-comment": "off",
-    "@typescript-eslint/prefer-nullish-coalescing": true,
+    "@typescript-eslint/prefer-nullish-coalescing": 2,
     complexity: "warn",
     "accessor-pairs": "warn",
     camelcase: "error",
