@@ -1,0 +1,12 @@
+{
+  "name": "@neocord/eslint-config",
+  "main": "./index.js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=7.9.0",
+    "@typescript-eslint/eslint-plugin": ">=4.1.1",
+    "@typescript-eslint/parser": ">=4.1.1",
+    "typescript": ">=4.0.3"
+  }
+}
