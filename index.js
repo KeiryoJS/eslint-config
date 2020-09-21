@@ -28,6 +28,6 @@ module.exports = {
     "accessor-pairs": "warn",
     camelcase: "error",
     "max-len": ["error", 200, 2],
-    yoda: true,
+    yoda: 2
   },
 };
