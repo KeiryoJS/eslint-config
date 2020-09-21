@@ -21,7 +21,7 @@ module.exports = {
     semi: ["error", "always"],
     complexity: "warn",
     "accessor-pairs": "warn",
-    camelcase: "error",
+    camelcase: "warn",
     "max-len": ['error', 200, 2],
     yoda: 2
   },
