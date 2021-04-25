@@ -6,7 +6,7 @@ module.exports = {
   extends: ["eslint:recommended", "plugin:@typescript-eslint/recommended"],
   parser: "@typescript-eslint/parser",
   parserOptions: {
-    ecmaVersion: 2019,
+    ecmaVersion: 2021,
     sourceType: "module",
   },
   rules: {
@@ -28,6 +28,8 @@ module.exports = {
     "accessor-pairs": "warn",
     camelcase: "warn",
     "max-len": ["error", 200, 2],
-    yoda: 2
+    yoda: 2,
+    "eol-last": true,
+    "@typescript-eslint/no-namespace": "off",
   },
 };
