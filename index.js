@@ -29,7 +29,7 @@ module.exports = {
     camelcase: "warn",
     "max-len": ["error", 200, 2],
     yoda: 2,
-    "eol-last": true,
+    "eol-last": 2,
     "@typescript-eslint/no-namespace": "off",
   },
 };
