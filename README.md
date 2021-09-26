@@ -1,3 +1,10 @@
-# @neocord/eslint-config
+# @keiryo/eslint-config
 
-> Configuration files for eslint/
+eslint configuration files.
+
+- `./js` javascript eslint config
+- `./index` typescript eslint config
+
+---
+
+keiryojs
